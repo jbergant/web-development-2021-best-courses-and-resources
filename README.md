@@ -2,6 +2,11 @@
 
 #### All the courses & resources you need to become a web developer in 2021
 
+For a guided tour watch the video:
+
+[![Web development 2021](https://raw.githubusercontent.com/jbergant/web-development-2021-best-courses-and-resources/main/images/webdevelopment2021.png)](https://youtu.be/Df_Z9dy9VHo)
+[Video](https://youtu.be/Df_Z9dy9VHo) | [Subscribe to YouTube](https://www.youtube.com/channel/UCMQXvu8jhHNnJ2DxPLhaMuQ?sub_confirmation=1)
+
 ### The basics for any path
 
 ![](https://cdn-images-1.medium.com/max/880/1*oAdo3ATJVuECbeSNxTZvTA.png)
@@ -51,7 +56,7 @@ Type caption for image (optional)
 
 [JavaScript Algorithms and Data Structures Masterclass](https://bit.ly/39eK4BM)
 
-[Master the Coding Interview: Data Structures + Algorithms on Zero To Mastery](http://bit.ly/2L4A2MQ) (includes space & time complexity)
+[Master the Coding Interview: Data Structures + Algorithms on Zero To Mastery](http://bit.ly/2L4A2MQ) (includes space & time complexity) ([REVIEW](https://youtu.be/ep2bHblnJgY))
 
 Web security: [CORS tutorial](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/), [HTTPS basics](https://support.google.com/webmasters/answer/6073543?hl=en)
 
